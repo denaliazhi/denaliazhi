@@ -10,7 +10,7 @@ one day decided, "I'll (git) commit to the bit."
 <br>`🐸` Like this React app → [<kbd>  Froget-Me-Not  </kbd>](https://github.com/denaliazhi/forget-me-not?tab=readme-ov-file#froget-me-not). Go on. Give it a play.
 
 ### And you can learn more about me
-At my website: [<kbd> ✨ Personal Portfolio ✨</kbd>](https://denaliazhi.github.io/)
+At my website: [<kbd> ✨ Personal Portfolio ✨</kbd>](https://denalia.dev/)
 <hr>
 
 [<kbd> Linkedin </kbd>](https://www.linkedin.com/in/denaliazhi/)
