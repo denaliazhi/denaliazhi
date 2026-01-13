@@ -1,16 +1,15 @@
 # Hi, I'm Denalia 👋🏻
 
 ```
-A long-time dabbler in design and programming
+A data analyst who dabbled in design and programming,
 one day decided, "I'll (git) commit to the bit."
 ```
-### I'm learning web development
-`👩🏻‍💻`  Following "Full Stack Javascript" with [The Odin Project](https://www.theodinproject.com/)
-<br>`🔨`  Making silly things to practice serious concepts
-<br>`🐸` Like this React app → [<kbd>  Froget-Me-Not  </kbd>](https://github.com/denaliazhi/forget-me-not?tab=readme-ov-file#froget-me-not). Go on. Give it a play.
+#### 🔨 I went from zero to full-stack with [The Odin Project](https://denalia.dev/the-odin-project)
+Made silly things to practice serious concepts like [<kbd>  Tic Tac Toe  </kbd>](https://github.com/denaliazhi/tic-tac-toe?tab=readme-ov-file#tic-tac-toe) (with a punny twist) and [<kbd>  Froget-Me-Not  </kbd>](https://github.com/denaliazhi/forget-me-not?tab=readme-ov-file#froget-me-not).
 
-### And you can learn more about me
-At my website: [<kbd> ✨ Personal Portfolio ✨</kbd>](https://denalia.dev/)
+#### 👩‍💻 Currently, learning WordPress and freelancing as a web designer
+
+Check out my stuff: [<kbd> ✨ Personal Portfolio ✨</kbd>](https://denalia.dev/)
 <hr>
 
-[<kbd> Linkedin </kbd>](https://www.linkedin.com/in/denaliazhi/)
+[<kbd> 🤝 Linkedin </kbd>](https://www.linkedin.com/in/denaliazhi/) [<kbd> ✉️ Hire me, maybe? </kbd>](mailto:denaliazhi@gmail.com)
